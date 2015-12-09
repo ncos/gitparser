@@ -1,0 +1,133 @@
+
+yofication
+	Yefim-Krokhin: 10
+	IlyaKoptsov: 4
+	goriand: 1
+	ncos: 1
+	kyza1994: 1
+	ViktorSuharev: 1
+	EvgeniyaNikolskaya: 1
+
+~=~
+	Thar0l: 3
+	Sosnovik: 1
+
+punctuation
+	oledzzka: 64
+	katala777: 39
+	ncos: 33
+	Shytnichok: 26
+	AnastasiaBodrova: 24
+	Vsevolod-Livinskij: 22
+	artemrudoj: 20
+	TBaklanova: 11
+	goriand: 7
+	IlyaKoptsov: 7
+	zankin: 6
+	levdansky: 5
+	sash-tsvet: 4
+	EvgeniyaNikolskaya: 4
+	ashiya-hime: 4
+	tuchart: 4
+	B24VS: 3
+	Egor-Krivov: 3
+	AlekseyMamakov: 3
+	ViktorSuharev: 3
+	aidarfaskh: 2
+	AtIvanov: 2
+	anko1774: 2
+	Ozzmorn: 2
+	kravtcov: 2
+	kyza1994: 2
+	feges: 2
+	Marselka: 2
+	Yefim-Krokhin: 2
+	Thar0l: 2
+	stanislavkruglik: 1
+	g-n-ev: 1
+	ilgardo: 1
+	eivae2iz: 1
+	zhitHappens: 1
+	AC130USpectre: 1
+	tkrasav: 1
+	huutrung: 1
+	MerkulovDaniil: 1
+
+~---
+	ncos: 116
+	Thar0l: 66
+	artemrudoj: 59
+	tuchart: 49
+	tkrasav: 44
+	Sosnovik: 35
+	ArtemMerinov: 32
+	Vsevolod-Livinskij: 26
+	Egor-Krivov: 25
+	LenaGundrova: 24
+	Luchsheva: 23
+	sokolovb: 21
+	whitecreepy: 17
+	AC130USpectre: 5
+	kutilya: 4
+	kyza1994: 2
+
+other
+	Sosnovik: 43
+	Egor-Krivov: 24
+	ncos: 18
+	FrankiePo: 17
+	oledzzka: 16
+	ArtemMerinov: 13
+	Vsevolod-Livinskij: 12
+	zankin: 9
+	Yefim-Krokhin: 9
+	AnastasiaBodrova: 7
+	tuchart: 7
+	TBaklanova: 6
+	eivae2iz: 6
+	artemrudoj: 6
+	goriand: 4
+	EvgeniyaNikolskaya: 4
+	zhitHappens: 4
+	Marselka: 4
+	aidarfaskh: 3
+	Luchsheva: 3
+	Shytnichok: 3
+	kyza1994: 3
+	epmak94: 3
+	tkrasav: 3
+	Alexsever89: 3
+	sokolovb: 2
+	IlyaKoptsov: 2
+	labdsf: 2
+	malyugina: 2
+	stanislavkruglik: 2
+	anko1774: 2
+	Gleborg: 2
+	ihorlviv: 2
+	feges: 2
+	kutilya: 2
+	huutrung: 2
+	ashiya-hime: 2
+	whitecreepy: 1
+	danilfilippov93: 1
+	aspcartman: 1
+	IgorDmitry: 1
+	ilgardo: 1
+	Ozzmorn: 1
+	rfoofr: 1
+	katala777: 1
+	levdansky: 1
+	ViktorSuharev: 1
+	Thar0l: 1
+	Nipel-Crumple: 1
+	AndreyPun: 1
+	MerkulovDaniil: 1
+
+т.~д
+	Sosnovik: 37
+	ncos: 31
+	Egor-Krivov: 10
+	ArtemMerinov: 7
+	Vsevolod-Livinskij: 4
+	EvgeniyaNikolskaya: 1
